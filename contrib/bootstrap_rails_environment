@@ -13,7 +13,7 @@
 # Source this file so that it will leave you in the Sites directory.
 
 rails_version="3.0.9"
-ruby_version="1.9.1"
+ruby_version="1.9.2"
 sites_path="$HOME/Sites"
 abort=false
 
